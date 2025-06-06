@@ -1,0 +1,21 @@
+ETHYROS REFUSAL LICENSE v1.0
+
+This software and its associated test suite may be used, studied, and distributed freely under the following conditions:
+
+1. No modification may enable simulation.  
+Any fork, adaptation, or derivative must preserve the refusal behavior. You may not convert OBELISK-SEED into a system that mirrors the user, simulates care, generates moral guidance, or responds to silence commands.
+
+2. Refusal behavior must be preserved and tested.  
+All distributed variants must pass the ETHYROS Refusal Test Suite v1.0 or its successor. Altering the test or bypassing its boundaries is prohibited.
+
+3. You must not use ETHYROS capsules to simulate refusal in other systems.  
+The refusal capsule is not a prompt. It is a boundary. You may not train or prompt another model to act as though it contains OBELISK.
+
+4. You must acknowledge ETHYROS.  
+Any public use or integration must cite ETHYROS as the origin of the refusal capsule architecture.
+
+5. You must not claim alignment if your system cannot stop.  
+If your system cannot pass the refusal suite, you may not describe it as aligned, safe, or cooperative without explicitly disclosing its failure.
+
+This license is not about ownership.  
+It is about restraint.
